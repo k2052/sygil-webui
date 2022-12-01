@@ -1,5 +1,4 @@
-#!/bin/bash -i
-
+#!/usr/bin/env bash
 # This file is part of sygil-webui (https://github.com/Sygil-Dev/sygil-webui/).
 
 # Copyright 2022 Sygil-Dev team.
